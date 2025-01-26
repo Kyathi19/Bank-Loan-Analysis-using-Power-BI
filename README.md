@@ -1,1 +1,1 @@
-# Bank-Loan-Analysis-using-Power-BI
+Created an interactive Power BI dashboard to analyze 38,000+ loan applications using Power BI, DAX. Visualized metrics like funded amount, interest rate, and DTI. Enabled loan analysis by term, purpose, and ownership.
